@@ -1,0 +1,68 @@
+nav
+{
+  background-color: transparent !important;
+}
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: black;
+ 
+ 
+}
+p
+{
+  color: white;
+}
+h2
+{
+  padding-top: 1%;
+  color:white;
+}
+h4
+{
+  padding-top: 1%;
+  color:white;
+  text-align: center;
+}
+.linea {
+  border-top: 3px solid #AED6F1;
+  height: 2px;
+  padding: 0;
+  margin: 20px auto 0 auto;
+  
+}
+.bg-info
+{
+  background-color: black !important;
+}
+.card-body
+{
+ background-color:#17a2b8 !important; 
+}
+.typeform-widget
+{
+  margin-top: 15px;
+}
+footer
+{
+  background-color:#17a2b8 !important ;
+}
+.imagefoot
+{
+  text-align: right;
+  width: 150%;
+}
+
+
+.cambiotamano{
+
+  width: 90%;
+  height: 60%;
+  padding: 10px;
+}
+
+.tamanoimagen{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
